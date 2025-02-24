@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CompareWithASCIIAnagram")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1bd7d409fbf48ceee11bc864a89dc0c96af44a2")]
 [assembly: System.Reflection.AssemblyProductAttribute("CompareWithASCIIAnagram")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CompareWithASCIIAnagram")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

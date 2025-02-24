@@ -1,0 +1,16 @@
+C:\Users\AMD\Desktop\Algoritmos e Estrutura de Dados - DSA\49. Group Anagrams\GroupAnagrams\GrupoAnagrams\GrupoAnagrams\bin\Debug\net5.0\GrupoAnagrams.exe
+C:\Users\AMD\Desktop\Algoritmos e Estrutura de Dados - DSA\49. Group Anagrams\GroupAnagrams\GrupoAnagrams\GrupoAnagrams\bin\Debug\net5.0\GrupoAnagrams.deps.json
+C:\Users\AMD\Desktop\Algoritmos e Estrutura de Dados - DSA\49. Group Anagrams\GroupAnagrams\GrupoAnagrams\GrupoAnagrams\bin\Debug\net5.0\GrupoAnagrams.runtimeconfig.json
+C:\Users\AMD\Desktop\Algoritmos e Estrutura de Dados - DSA\49. Group Anagrams\GroupAnagrams\GrupoAnagrams\GrupoAnagrams\bin\Debug\net5.0\GrupoAnagrams.runtimeconfig.dev.json
+C:\Users\AMD\Desktop\Algoritmos e Estrutura de Dados - DSA\49. Group Anagrams\GroupAnagrams\GrupoAnagrams\GrupoAnagrams\bin\Debug\net5.0\GrupoAnagrams.dll
+C:\Users\AMD\Desktop\Algoritmos e Estrutura de Dados - DSA\49. Group Anagrams\GroupAnagrams\GrupoAnagrams\GrupoAnagrams\bin\Debug\net5.0\GrupoAnagrams.pdb
+C:\Users\AMD\Desktop\Algoritmos e Estrutura de Dados - DSA\49. Group Anagrams\GroupAnagrams\GrupoAnagrams\GrupoAnagrams\obj\Debug\net5.0\GrupoAnagrams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMD\Desktop\Algoritmos e Estrutura de Dados - DSA\49. Group Anagrams\GroupAnagrams\GrupoAnagrams\GrupoAnagrams\obj\Debug\net5.0\GrupoAnagrams.AssemblyInfoInputs.cache
+C:\Users\AMD\Desktop\Algoritmos e Estrutura de Dados - DSA\49. Group Anagrams\GroupAnagrams\GrupoAnagrams\GrupoAnagrams\obj\Debug\net5.0\GrupoAnagrams.AssemblyInfo.cs
+C:\Users\AMD\Desktop\Algoritmos e Estrutura de Dados - DSA\49. Group Anagrams\GroupAnagrams\GrupoAnagrams\GrupoAnagrams\obj\Debug\net5.0\GrupoAnagrams.csproj.CoreCompileInputs.cache
+C:\Users\AMD\Desktop\Algoritmos e Estrutura de Dados - DSA\49. Group Anagrams\GroupAnagrams\GrupoAnagrams\GrupoAnagrams\obj\Debug\net5.0\GrupoAnagrams.sourcelink.json
+C:\Users\AMD\Desktop\Algoritmos e Estrutura de Dados - DSA\49. Group Anagrams\GroupAnagrams\GrupoAnagrams\GrupoAnagrams\obj\Debug\net5.0\GrupoAnagrams.dll
+C:\Users\AMD\Desktop\Algoritmos e Estrutura de Dados - DSA\49. Group Anagrams\GroupAnagrams\GrupoAnagrams\GrupoAnagrams\obj\Debug\net5.0\refint\GrupoAnagrams.dll
+C:\Users\AMD\Desktop\Algoritmos e Estrutura de Dados - DSA\49. Group Anagrams\GroupAnagrams\GrupoAnagrams\GrupoAnagrams\obj\Debug\net5.0\GrupoAnagrams.pdb
+C:\Users\AMD\Desktop\Algoritmos e Estrutura de Dados - DSA\49. Group Anagrams\GroupAnagrams\GrupoAnagrams\GrupoAnagrams\obj\Debug\net5.0\GrupoAnagrams.genruntimeconfig.cache
+C:\Users\AMD\Desktop\Algoritmos e Estrutura de Dados - DSA\49. Group Anagrams\GroupAnagrams\GrupoAnagrams\GrupoAnagrams\obj\Debug\net5.0\ref\GrupoAnagrams.dll

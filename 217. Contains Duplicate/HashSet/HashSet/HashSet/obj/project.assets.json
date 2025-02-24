@@ -8,19 +8,24 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\AMD\\.nuget\\packages\\": {}
+    "C:\\Users\\AMD\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AMD\\Desktop\\Algoritmos e Estrutura de Dados - DSA\\Contains Duplicate\\HashSet\\HashSet\\HashSet\\HashSet.csproj",
+      "projectUniqueName": "C:\\Users\\AMD\\Desktop\\Algoritmos e Estrutura de Dados - DSA\\217. Contains Duplicate\\HashSet\\HashSet\\HashSet\\HashSet.csproj",
       "projectName": "HashSet",
-      "projectPath": "C:\\Users\\AMD\\Desktop\\Algoritmos e Estrutura de Dados - DSA\\Contains Duplicate\\HashSet\\HashSet\\HashSet\\HashSet.csproj",
+      "projectPath": "C:\\Users\\AMD\\Desktop\\Algoritmos e Estrutura de Dados - DSA\\217. Contains Duplicate\\HashSet\\HashSet\\HashSet\\HashSet.csproj",
       "packagesPath": "C:\\Users\\AMD\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AMD\\Desktop\\Algoritmos e Estrutura de Dados - DSA\\Contains Duplicate\\HashSet\\HashSet\\HashSet\\obj\\",
+      "outputPath": "C:\\Users\\AMD\\Desktop\\Algoritmos e Estrutura de Dados - DSA\\217. Contains Duplicate\\HashSet\\HashSet\\HashSet\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\AMD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -40,7 +45,13 @@
         "warnAsError": [
           "NU1605"
         ]
-      }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net5.0": {
@@ -51,7 +62,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -60,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }
