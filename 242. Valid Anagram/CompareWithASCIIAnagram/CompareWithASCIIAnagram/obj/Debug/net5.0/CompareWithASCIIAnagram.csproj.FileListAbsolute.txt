@@ -1,0 +1,16 @@
+C:\Users\AMD\Desktop\Algoritmos e Estrutura de Dados - DSA\Valid Anagram\CompareWithASCIIAnagram\CompareWithASCIIAnagram\bin\Debug\net5.0\CompareWithASCIIAnagram.exe
+C:\Users\AMD\Desktop\Algoritmos e Estrutura de Dados - DSA\Valid Anagram\CompareWithASCIIAnagram\CompareWithASCIIAnagram\bin\Debug\net5.0\CompareWithASCIIAnagram.deps.json
+C:\Users\AMD\Desktop\Algoritmos e Estrutura de Dados - DSA\Valid Anagram\CompareWithASCIIAnagram\CompareWithASCIIAnagram\bin\Debug\net5.0\CompareWithASCIIAnagram.runtimeconfig.json
+C:\Users\AMD\Desktop\Algoritmos e Estrutura de Dados - DSA\Valid Anagram\CompareWithASCIIAnagram\CompareWithASCIIAnagram\bin\Debug\net5.0\CompareWithASCIIAnagram.runtimeconfig.dev.json
+C:\Users\AMD\Desktop\Algoritmos e Estrutura de Dados - DSA\Valid Anagram\CompareWithASCIIAnagram\CompareWithASCIIAnagram\bin\Debug\net5.0\CompareWithASCIIAnagram.dll
+C:\Users\AMD\Desktop\Algoritmos e Estrutura de Dados - DSA\Valid Anagram\CompareWithASCIIAnagram\CompareWithASCIIAnagram\bin\Debug\net5.0\ref\CompareWithASCIIAnagram.dll
+C:\Users\AMD\Desktop\Algoritmos e Estrutura de Dados - DSA\Valid Anagram\CompareWithASCIIAnagram\CompareWithASCIIAnagram\bin\Debug\net5.0\CompareWithASCIIAnagram.pdb
+C:\Users\AMD\Desktop\Algoritmos e Estrutura de Dados - DSA\Valid Anagram\CompareWithASCIIAnagram\CompareWithASCIIAnagram\obj\Debug\net5.0\CompareWithASCIIAnagram.csproj.AssemblyReference.cache
+C:\Users\AMD\Desktop\Algoritmos e Estrutura de Dados - DSA\Valid Anagram\CompareWithASCIIAnagram\CompareWithASCIIAnagram\obj\Debug\net5.0\CompareWithASCIIAnagram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMD\Desktop\Algoritmos e Estrutura de Dados - DSA\Valid Anagram\CompareWithASCIIAnagram\CompareWithASCIIAnagram\obj\Debug\net5.0\CompareWithASCIIAnagram.AssemblyInfoInputs.cache
+C:\Users\AMD\Desktop\Algoritmos e Estrutura de Dados - DSA\Valid Anagram\CompareWithASCIIAnagram\CompareWithASCIIAnagram\obj\Debug\net5.0\CompareWithASCIIAnagram.AssemblyInfo.cs
+C:\Users\AMD\Desktop\Algoritmos e Estrutura de Dados - DSA\Valid Anagram\CompareWithASCIIAnagram\CompareWithASCIIAnagram\obj\Debug\net5.0\CompareWithASCIIAnagram.csproj.CoreCompileInputs.cache
+C:\Users\AMD\Desktop\Algoritmos e Estrutura de Dados - DSA\Valid Anagram\CompareWithASCIIAnagram\CompareWithASCIIAnagram\obj\Debug\net5.0\CompareWithASCIIAnagram.dll
+C:\Users\AMD\Desktop\Algoritmos e Estrutura de Dados - DSA\Valid Anagram\CompareWithASCIIAnagram\CompareWithASCIIAnagram\obj\Debug\net5.0\ref\CompareWithASCIIAnagram.dll
+C:\Users\AMD\Desktop\Algoritmos e Estrutura de Dados - DSA\Valid Anagram\CompareWithASCIIAnagram\CompareWithASCIIAnagram\obj\Debug\net5.0\CompareWithASCIIAnagram.pdb
+C:\Users\AMD\Desktop\Algoritmos e Estrutura de Dados - DSA\Valid Anagram\CompareWithASCIIAnagram\CompareWithASCIIAnagram\obj\Debug\net5.0\CompareWithASCIIAnagram.genruntimeconfig.cache

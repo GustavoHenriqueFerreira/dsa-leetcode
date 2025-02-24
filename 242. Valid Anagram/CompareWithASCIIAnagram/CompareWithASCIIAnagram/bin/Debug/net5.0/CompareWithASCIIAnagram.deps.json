@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CompareWithASCIIAnagram/1.0.0": {
+        "runtime": {
+          "CompareWithASCIIAnagram.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CompareWithASCIIAnagram/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
