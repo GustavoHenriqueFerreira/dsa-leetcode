@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AMD\\Desktop\\Algoritmos e Estrutura de Dados - DSA\\347. Top K Frequent Elements\\TopKFrequentElement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F1284AE-1F94-47CA-BE1F-F1A6A906B9B3}|TopKFrequentElement\\TopKFrequentElement.csproj|c:\\users\\amd\\desktop\\algoritmos e estrutura de dados - dsa\\347. top k frequent elements\\topkfrequentelement\\topkfrequentelement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F1284AE-1F94-47CA-BE1F-F1A6A906B9B3}|TopKFrequentElement\\TopKFrequentElement.csproj|solutionrelative:topkfrequentelement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AMD\\Desktop\\Algoritmos e Estrutura de Dados - DSA\\347. Top K Frequent Elements\\TopKFrequentElement\\TopKFrequentElement\\Program.cs",
+              "RelativeDocumentMoniker": "TopKFrequentElement\\Program.cs",
+              "ToolTip": "C:\\Users\\AMD\\Desktop\\Algoritmos e Estrutura de Dados - DSA\\347. Top K Frequent Elements\\TopKFrequentElement\\TopKFrequentElement\\Program.cs",
+              "RelativeToolTip": "TopKFrequentElement\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA1wAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T03:09:12.212Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

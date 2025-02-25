@@ -1,0 +1,15 @@
+C:\Users\AMD\Desktop\Algoritmos e Estrutura de Dados - DSA\347. Top K Frequent Elements\TopKFrequentElement\TopKFrequentElement\bin\Debug\net8.0\TopKFrequentElement.exe
+C:\Users\AMD\Desktop\Algoritmos e Estrutura de Dados - DSA\347. Top K Frequent Elements\TopKFrequentElement\TopKFrequentElement\bin\Debug\net8.0\TopKFrequentElement.deps.json
+C:\Users\AMD\Desktop\Algoritmos e Estrutura de Dados - DSA\347. Top K Frequent Elements\TopKFrequentElement\TopKFrequentElement\bin\Debug\net8.0\TopKFrequentElement.runtimeconfig.json
+C:\Users\AMD\Desktop\Algoritmos e Estrutura de Dados - DSA\347. Top K Frequent Elements\TopKFrequentElement\TopKFrequentElement\bin\Debug\net8.0\TopKFrequentElement.dll
+C:\Users\AMD\Desktop\Algoritmos e Estrutura de Dados - DSA\347. Top K Frequent Elements\TopKFrequentElement\TopKFrequentElement\bin\Debug\net8.0\TopKFrequentElement.pdb
+C:\Users\AMD\Desktop\Algoritmos e Estrutura de Dados - DSA\347. Top K Frequent Elements\TopKFrequentElement\TopKFrequentElement\obj\Debug\net8.0\TopKFrequentElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMD\Desktop\Algoritmos e Estrutura de Dados - DSA\347. Top K Frequent Elements\TopKFrequentElement\TopKFrequentElement\obj\Debug\net8.0\TopKFrequentElement.AssemblyInfoInputs.cache
+C:\Users\AMD\Desktop\Algoritmos e Estrutura de Dados - DSA\347. Top K Frequent Elements\TopKFrequentElement\TopKFrequentElement\obj\Debug\net8.0\TopKFrequentElement.AssemblyInfo.cs
+C:\Users\AMD\Desktop\Algoritmos e Estrutura de Dados - DSA\347. Top K Frequent Elements\TopKFrequentElement\TopKFrequentElement\obj\Debug\net8.0\TopKFrequentElement.csproj.CoreCompileInputs.cache
+C:\Users\AMD\Desktop\Algoritmos e Estrutura de Dados - DSA\347. Top K Frequent Elements\TopKFrequentElement\TopKFrequentElement\obj\Debug\net8.0\TopKFrequentElement.sourcelink.json
+C:\Users\AMD\Desktop\Algoritmos e Estrutura de Dados - DSA\347. Top K Frequent Elements\TopKFrequentElement\TopKFrequentElement\obj\Debug\net8.0\TopKFrequentElement.dll
+C:\Users\AMD\Desktop\Algoritmos e Estrutura de Dados - DSA\347. Top K Frequent Elements\TopKFrequentElement\TopKFrequentElement\obj\Debug\net8.0\refint\TopKFrequentElement.dll
+C:\Users\AMD\Desktop\Algoritmos e Estrutura de Dados - DSA\347. Top K Frequent Elements\TopKFrequentElement\TopKFrequentElement\obj\Debug\net8.0\TopKFrequentElement.pdb
+C:\Users\AMD\Desktop\Algoritmos e Estrutura de Dados - DSA\347. Top K Frequent Elements\TopKFrequentElement\TopKFrequentElement\obj\Debug\net8.0\TopKFrequentElement.genruntimeconfig.cache
+C:\Users\AMD\Desktop\Algoritmos e Estrutura de Dados - DSA\347. Top K Frequent Elements\TopKFrequentElement\TopKFrequentElement\obj\Debug\net8.0\ref\TopKFrequentElement.dll
