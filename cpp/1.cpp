@@ -1,18 +1,17 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        // usar completo do numero atual pra chega no target e ver se tem no map
-        map<int, int> mp;
+        map<int, int> mp; // {numero, indice no array}
 
-        for (int i = 0; i < nums.size(); i++){
-            int complemento = target - nums[i];
+        for (int i = 0; i < nums.size(); i++) {
+            int complemento = target - nums[i]; // pega complemento
 
-            if (mp.count(complemento))
-                return {mp[complemento], i};
+            if (mp.count(complemento)) // ver se complemento está no map
+                return {mp[complemento], i}; // se estiver retornar indice atual e do complemento
 
-            mp[nums[i]] = i;
+            mp[nums[i]] = i; // senao guardar indice do numero atual
         }
-    
-        return {};
+
+        return {}; // retornar vazio se não tiver nada
     }
 };

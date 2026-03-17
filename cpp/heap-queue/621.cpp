@@ -15,10 +15,10 @@ public:
             if (maxFreq == freq[i])
                 countMaxs++; // quantidade de maiores
 
-        int blocos = maxFreq - 1;
-        int tamanhoBloco = n + 1;
+        int blocos = maxFreq - 1; // quantia de bloco ex: A__ A__ A__ A 4-1
+        int tamanhoBloco = n + 1; // letra mais n
 
-        int tempoMinimo = blocos * tamanhoBloco + countMaxs;
+        int tempoMinimo = blocos * tamanhoBloco + countMaxs; // contar maxs tambem
         return max(tempoMinimo, (int)tasks.size());
     }
 };
