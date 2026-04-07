@@ -1,21 +1,22 @@
 class Solution {
 public:
     int characterReplacement(string s, int k) {
-        unordered_map<char,int> freq;
-        int l = 0;
-        int res = 0;
-        int maxFreq = 0;
+        unordered_map<int, int> frequency;
 
-        for (int r = 0; r < s.size(); r++) {
-            freq[s[r]]++;
-            maxFreq = max(maxFreq, freq[s[r]]);
+        int res = 0, left = 0, maxFreqWindow = 0;
+        for (int i = 0; i < s.size(); i++) {
+            frequency[s[i]]++;
+            maxFreqWindow = max(maxFreqWindow, frequency[s[i]]);
+            int sizeWindow = i - left + 1;
+            int changesNeed = sizeWindow - maxFreqWindow;
 
-            while ((r - l + 1) - maxFreq > k) {
-                freq[s[l]]--;
-                l++;
+            while (changesNeed > k) {
+                frequency[s[left]]--;
+                left++;
+                changesNeed--;
             }
 
-            res = max(res, r - l + 1);
+            res = max(res, i - left + 1);
         }
 
         return res;
